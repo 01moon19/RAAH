@@ -24,3 +24,7 @@ The project utilizes cloud services to ensure scalability, reliability, and perf
 Cloud Hosting: The dashboard and backend services are hosted on cloud platforms, providing high availability and access from anywhere.
 Data Storage: Cloud storage solutions are used to manage and store historical traffic data and AI models, enabling efficient data retrieval and management.
 AI Model Deployment: The traffic prediction AI model is deployed on cloud infrastructure, allowing it to process large datasets and provide predictions in real-time.
+Collaborators:
+https://github.com/shauryayay
+https://github.com/Himalayan13
+https://github.com/aadya-chopra
